@@ -1,0 +1,264 @@
+2018-02-14 11:17:37 INFO  LoggingFilter:21 - hit controller
+2018-02-14 11:17:37 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 11:17:37 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 11:17:37 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 11:28:13 INFO  LoggingFilter:21 - hit controller
+2018-02-14 11:28:13 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 11:28:13 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 11:28:13 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 11:29:00 INFO  PerformanceFilter:26 - time taken to process request is PT-0.055S
+2018-02-14 11:29:10 INFO  LoggingFilter:21 - hit controller
+2018-02-14 11:29:10 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 11:29:10 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 11:29:10 INFO  PerformanceFilter:26 - time taken to process request is PT0S
+2018-02-14 11:29:10 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 11:34:09 INFO  PerformanceFilter:26 - time taken to process request is -1 s
+2018-02-14 11:34:15 INFO  LoggingFilter:21 - hit controller
+2018-02-14 11:34:15 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 11:34:15 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 11:34:15 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-02-14 11:34:15 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 11:35:28 INFO  PerformanceFilter:26 - time taken to process request is 49000000 s
+2018-02-14 11:35:48 INFO  LoggingFilter:21 - hit controller
+2018-02-14 11:35:48 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 11:35:48 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 11:35:48 INFO  PerformanceFilter:26 - time taken to process request is 1000000 s
+2018-02-14 11:35:48 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 12:10:58 INFO  PerformanceFilter:26 - time taken to process request is 48000000 s
+2018-02-14 12:11:01 INFO  LoggingFilter:21 - hit controller
+2018-02-14 12:11:01 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 12:11:01 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 12:11:01 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 12:11:39 INFO  PerformanceFilter:26 - time taken to process request is 50000000 s
+2018-02-14 12:11:49 INFO  LoggingFilter:21 - hit controller
+2018-02-14 12:11:49 DEBUG LoggingFilter:22 - zh_CN_#Hans
+2018-02-14 12:11:49 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 12:11:49 DEBUG LoggingFilter:33 - request processed successfully
+2018-02-14 12:12:06 INFO  PerformanceFilter:26 - time taken to process request is 1000000 s
+2018-02-14 12:12:17 INFO  LoggingFilter:21 - hit controller
+2018-02-14 12:12:17 DEBUG LoggingFilter:22 - en_US
+2018-02-14 12:12:17 DEBUG LoggingFilter:28 - /Servlet1
+2018-02-14 12:12:17 DEBUG LoggingFilter:33 - request processed successfully
+2018-04-18 13:30:27 INFO  PerformanceFilter:26 - time taken to process request is 616000000 s
+2018-04-18 13:30:30 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:33 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:37 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:40 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:43 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:48 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:50 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-18 13:30:55 INFO  PerformanceFilter:26 - time taken to process request is 5000000 s
+2018-04-18 13:35:13 INFO  PerformanceFilter:26 - time taken to process request is 162000000 s
+2018-04-19 20:54:29 INFO  PerformanceFilter:26 - time taken to process request is 800000000 s
+2018-04-19 20:54:47 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:55:27 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:55:28 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:56:06 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:56:11 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:57:16 INFO  PerformanceFilter:26 - time taken to process request is 626000000 s
+2018-04-19 20:57:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:57:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:57:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:57:52 INFO  PerformanceFilter:26 - time taken to process request is 156000000 s
+2018-04-19 20:57:57 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 20:57:57 INFO  PerformanceFilter:26 - time taken to process request is 102000000 s
+2018-04-19 21:00:35 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:00:35 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:00:55 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:00:55 INFO  PerformanceFilter:26 - time taken to process request is 5000000 s
+2018-04-19 21:01:00 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:01:00 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:10:40 INFO  PerformanceFilter:26 - time taken to process request is 5000000 s
+2018-04-19 21:10:52 INFO  PerformanceFilter:26 - time taken to process request is 13000000 s
+2018-04-19 21:10:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:23:23 INFO  PerformanceFilter:26 - time taken to process request is 126000000 s
+2018-04-19 21:23:25 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:24:15 INFO  PerformanceFilter:26 - time taken to process request is 39000000 s
+2018-04-19 21:25:46 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:25:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:25:57 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:02 INFO  PerformanceFilter:26 - time taken to process request is 1000000 s
+2018-04-19 21:26:07 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:12 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:17 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:22 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:27 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:32 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:37 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:42 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:47 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:26:57 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:02 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:07 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:12 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:17 INFO  PerformanceFilter:26 - time taken to process request is 1000000 s
+2018-04-19 21:27:22 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:27 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:32 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:37 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:42 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:47 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:27:57 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:02 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:07 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:12 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:17 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:22 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:27 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:32 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:37 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:42 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:47 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:52 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:28:57 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:02 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:07 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:12 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:17 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:22 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:28 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:33 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:38 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:43 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:48 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:53 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:29:58 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:03 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:08 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:13 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:18 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:28 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:33 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:38 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:43 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:48 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:53 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:30:58 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:03 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:08 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:13 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:18 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:28 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:33 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:38 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:43 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:48 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:53 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:31:58 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:03 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:08 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:13 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:18 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:28 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:33 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:38 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:43 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:48 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:53 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:32:58 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:03 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:08 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:13 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:29 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:34 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:39 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:44 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:49 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:54 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:33:59 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:04 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:09 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:14 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:29 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:34 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:39 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:44 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:49 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:54 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:34:59 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:04 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:09 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:14 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:29 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:34 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:39 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:44 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:49 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:54 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:35:59 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:04 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:09 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:14 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:29 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:34 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:39 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:44 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:49 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:54 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:36:59 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:04 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:10 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:15 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:20 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:25 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:30 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:35 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:40 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:45 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:50 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:37:55 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:00 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:08 INFO  PerformanceFilter:26 - time taken to process request is 1000000 s
+2018-04-19 21:38:13 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:18 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:22 INFO  PerformanceFilter:26 - time taken to process request is 32000000 s
+2018-04-19 21:38:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:38:52 INFO  PerformanceFilter:26 - time taken to process request is 543000000 s
+2018-04-19 21:38:53 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:39:12 INFO  PerformanceFilter:26 - time taken to process request is 4000000 s
+2018-04-19 21:39:14 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:39:19 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 21:39:24 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-19 22:08:43 INFO  PerformanceFilter:26 - time taken to process request is 169000000 s
+2018-04-19 22:10:18 INFO  PerformanceFilter:26 - time taken to process request is 123000000 s
+2018-04-19 22:11:44 INFO  PerformanceFilter:26 - time taken to process request is 178000000 s
+2018-04-19 22:12:20 INFO  PerformanceFilter:26 - time taken to process request is 163000000 s
+2018-04-19 22:13:47 INFO  PerformanceFilter:26 - time taken to process request is 121000000 s
+2018-04-19 22:14:17 INFO  PerformanceFilter:26 - time taken to process request is 148000000 s
+2018-04-20 00:05:24 INFO  PerformanceFilter:26 - time taken to process request is 783000000 s
+2018-04-20 00:06:07 INFO  PerformanceFilter:26 - time taken to process request is 158000000 s
+2018-04-20 00:06:17 INFO  PerformanceFilter:26 - time taken to process request is 0 s
+2018-04-20 00:07:19 INFO  PerformanceFilter:26 - time taken to process request is 142000000 s
+2018-04-20 00:09:54 INFO  PerformanceFilter:26 - time taken to process request is 49000000 s
+2018-04-20 00:10:05 INFO  PerformanceFilter:26 - time taken to process request is 187000000 s
+2018-04-20 00:11:08 INFO  PerformanceFilter:26 - time taken to process request is 418000000 s
+2018-04-20 00:11:46 INFO  PerformanceFilter:26 - time taken to process request is 499000000 s
+2018-04-20 00:37:41 INFO  PerformanceFilter:26 - time taken to process request is 75000000 s
+2018-04-20 00:37:57 INFO  PerformanceFilter:26 - time taken to process request is 547000000 s
+2018-04-20 01:24:37 INFO  PerformanceFilter:26 - time taken to process request is 696000000 s
+2018-04-20 01:27:31 INFO  PerformanceFilter:26 - time taken to process request is 995000000 s
+2018-04-20 01:29:26 INFO  PerformanceFilter:26 - time taken to process request is 167000000 s
+2018-04-20 01:43:05 INFO  PerformanceFilter:26 - time taken to process request is 54000000 s
+2018-04-20 01:47:27 INFO  PerformanceFilter:26 - time taken to process request is 690000000 s
+2018-04-20 01:48:00 INFO  PerformanceFilter:26 - time taken to process request is 55000000 s
+2018-04-20 01:49:14 INFO  PerformanceFilter:26 - time taken to process request is 597000000 s
+2018-04-20 01:49:20 INFO  PerformanceFilter:26 - time taken to process request is 857000000 s
+2018-04-20 01:52:06 INFO  PerformanceFilter:26 - time taken to process request is 432000000 s
+2018-04-20 01:54:05 INFO  PerformanceFilter:26 - time taken to process request is 400000000 s
+2018-04-20 01:56:23 INFO  PerformanceFilter:26 - time taken to process request is 602000000 s
+2018-04-20 02:25:21 INFO  PerformanceFilter:26 - time taken to process request is 109000000 s
+2018-04-20 02:25:23 INFO  PerformanceFilter:26 - time taken to process request is 0 s

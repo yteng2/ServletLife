@@ -1,0 +1,8 @@
+this project is lab assigment,
+i put all the labs in index.html,
+the first lab1 shows system time;
+lab 2 will take a username and password then login, the username is terry password is 12345
+la3 3 take user to register, and writer user to the db
+lab4 is after user registeration, next page will show user information
+lab5 is write some caiculation result and write to db with sql sequence and sql system
+lab6 is implement a filter that will log the provess time for a servlet
